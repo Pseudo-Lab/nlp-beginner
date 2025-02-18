@@ -82,16 +82,16 @@
 
 [nlp-beginner](https://github.com/Pseudo-Lab/nlp-beginner/) is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
-## About Pseudo Lab 👋🏼</h2>
+## About Pseudo Lab 👋🏼  
 
-[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
+[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies.  
+Our core values of **Sharing, Motivation, and Collaborative Joy** drive us to create impactful open-source projects.  
+With over **5k+ researchers**, we are committed to pushing the boundaries of AI and open-source innovation.  
 
-<h2>Contributors 😃</h2>
-<a href="https://github.com/ssungni/nlp-beginner/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ssungni/nlp-beginner"/>
-</a>
-<br><br>
+## Contributors 😃  
 
-<h2>License 🗞</h2>
+[![Contributors](https://contrib.rocks/image?repo=ssungni/nlp-beginner)](https://github.com/ssungni/nlp-beginner/graphs/contributors)  
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## License 🗞  
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
