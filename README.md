@@ -56,18 +56,17 @@
 |--------|------|--------|------|
 | 3/6 (목) | **BERT (2018)** | 미정 | [BERT](https://arxiv.org/abs/1810.04805) |
 | 3/13 (목) | **RoBERTa (2019)** | 미정 | [RoBERTa](https://arxiv.org/abs/1907.11692) |
-| 3/20 (목) | **BART (2019)** | 미정 | [BART](https://arxiv.org/abs/1910.13461) |
+| 3/20 (목) | **BART, T5(2019)** | 미정 | [BART](https://arxiv.org/abs/1910.13461)  [T5](https://arxiv.org/abs/1910.10683)   |
 | 3/27 (목) | **💡 Magical Week** | - | - |
 | 4/3 (목) | **GPT-1 (2018)** | 미정 | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |
 | 4/10 (목) | **GPT-2 (2019)** | 미정 | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
 | 4/17 (목) | **GPT-3 (2020)** | 미정 | [GPT-3](https://arxiv.org/abs/2005.14165) |
 | 4/24 (목) | **💡 Magical Week** | - | - |
-| 5/1 (목) | **T5 (2019)** | 미정 | [T5](https://arxiv.org/abs/1910.10683) |
-| 5/8 (목) | **InstructGPT (2022)** | 미정 | [InstructGPT](https://arxiv.org/abs/2203.02155) |
-| 5/15 (목) | **ChatGPT (2022)** | 미정 | [ChatGPT](https://arxiv.org/abs/2304.01852) |
-| 5/22 (목) | **LLaMA 1 (2023)** | 미정 | [LLaMA 1](https://arxiv.org/abs/2302.13971) |
-| 5/29 (목) | **LLaMA 2 (2023)** | 미정 | [LLaMA 2](https://arxiv.org/abs/2307.09288) |
-| 6/5 (목) | **LLaMA 3 (2024)** | 미정 | [LLaMA 3](https://arxiv.org/abs/2407.21783) |
+| 5/1 (목) | **InstructGPT (2022)** | 미정 | [InstructGPT](https://arxiv.org/abs/2203.02155) |
+| 5/8 (목) | **ChatGPT (2022)** | 미정 | [ChatGPT](https://arxiv.org/abs/2304.01852) |
+| 5/15 (목) | **LLaMA 1 (2023)** | 미정 | [LLaMA 1](https://arxiv.org/abs/2302.13971) |
+| 5/22 (목) | **LLaMA 2 (2023)** | 미정 | [LLaMA 2](https://arxiv.org/abs/2307.09288) |
+| 5/29 (목) | **LLaMA 3 (2024)** | 미정 | [LLaMA 3](https://arxiv.org/abs/2407.21783) |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
