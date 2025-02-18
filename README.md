@@ -88,7 +88,7 @@
 
 <h2>Contributors 😃</h2>
 <a href="https://github.com/ssungni/nlp-beginner/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ssungni/nlp-beginner" />
+  <img src="https://contrib.rocks/image?repo=ssungni/nlp-beginner"/>
 </a>
 <br><br>
 
