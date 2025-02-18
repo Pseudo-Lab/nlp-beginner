@@ -1,15 +1,15 @@
 # NLP 기초 논문 스터디
-
+<!--
 <h1 align="center"> Transformer to LLaMA </h1>
-
+-->
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/nlp-beginner/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/nlp-beginner/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/nlp-beginner/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/nlp-beginner/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/nlp-beginner/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
@@ -17,13 +17,23 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to the nlp-beginner repository! We aim to make NLP more accessible, offering tools and frameworks for text preprocessing, model training, and evaluation. Join us in advancing the field of natural language processing through open collaboration and innovation!
+> **안녕하세요! NLP 기초 논문 스터디에 오신 것을 환영합니다.** 🎉  
+>  
+> 저는 지난 6개월동안 부트캠프를 수료하면서 여러 모델을 사용하면서도 **그 원리를 깊이 이해하지 못하는 제 자신을 발견**했습니다.  
+> 단순히 모델을 돌리는 것이 아니라, **핵심 개념을 직접 탐구하고 논문을 분석하는 습관**을 들이기 위해  
+> 이 스터디를 열게 되었습니다.  
+>  
+> 논문을 함께 읽고, 코드와 함께 이해하며, 토론하는 과정을 통해 **실무와 연구에 대한 깊이 있는 이해**를 쌓아가고자 합니다.  
+> **혼자서는 어렵고 귀찮은 논문 읽기, 함께 하면 더 깊이 배울 수 있습니다!** 🚀  
 
-## 🌟 프로젝트 목표 (Project Vision)
-- NLP 기초 논문 스터디 및 실습 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
+## 🌟 **프로젝트 목표 (Project Vision)**
+- **NLP 핵심 논문 학습 및 실습**을 통한 이론과 실무의 균형 잡힌 학습  
+- **개인 성장과 협업을 통한 집단 지혜**의 시너지 창출  
+- **오픈소스 기반의 지식 공유 문화** 형성  
+- **실패를 두려워하지 않는 실험적 접근**으로 문제 해결 역량 강화  
+
+📌 **"논문 읽기는 선택이 아니라 필수!"**  
+함께 배우고, 함께 성장하는 스터디를 만들어가요! 💡
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
@@ -31,76 +41,37 @@
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 김성은 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
-| **Member** | 김OO | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
+| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
+| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
+| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
+| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
+| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
 
-<!--
-## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
--->
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture) 
-1️⃣ 논문을 읽고 코드를 통해 이해하기  
-2️⃣ 매주 목요일 결과 공유  
-3️⃣ 캠을 켜고 적극적으로 토론하며 집중하기  
-<!--
-```python
-class CollaborationFramework:
-    def __init__(self):
-        self.tools = {
-            'communication': 'Discord',
-            'version_control': 'GitHub Projects',
-            'ci/cd': 'GitHub Actions',
-            'docs': 'Github Wiki'
-        }
-    
-    def workflow(self):
-        return """주간 사이클:
-        1️⃣ 논문을 읽고 코드를 통해 이해하기
-        2️⃣ 매주 목요일 결과 공유
-        3️⃣ 캠을 켜고 적극적으로 토론하며 집중하기
-```
--->
+📅 매주 목요일 저녁 8시 ~ 9시 30분
+📝 일주일 논문 1개 읽고 요약해보기
+🗣️ 캠을 켜고 적극적으로 토론하며 집중하기
 
-<!--
-## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
--->
 
 ## 💻 주차별 활동 (Activity History)
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2025/03/ | OT       |      |
-| 2025/03/ |  Part 1. Seq2Seq, Transformer | 미정 | 
-| 2025/04/ |  Part 2. ELMO, BERT | 미정 | 
-| 2025/04/ |  Part 3. GPT 1, 2, 3, Instruct GPT, ChatGPT, GPT-4| 미정 | 
-| 2025/05/ |  Part 4. MT-DNN, MASS, UniLM, XLNet, RoBERTa, ALBERT | 미정 | 
-| 2025/05/ |  Part 5. BART, T5, DistillBERT, ELECTRA, DeBERTa| 미정 | 
-
-
-<!--
-## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
--->
+| 날짜 | 논문 | 발표자 | 링크 |
+|--------|------|--------|------|
+| 3월 6일 목요일 | **BERT (2018)** | 미정 | [BERT](https://arxiv.org/abs/1810.04805) |
+| 3월 13일 목요일 | **RoBERTa (2019)** | 미정 | [RoBERTa](https://arxiv.org/abs/1907.11692) |
+| 3월 20일 목요일 | **BART (2019)** | 미정 | [BART](https://arxiv.org/abs/1910.13461) |
+| 3월 27일 목요일 | **Magical Week** | - | - |
+| 4월 3일 목요일 | **GPT-1 (2018)** | 미정 | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |
+| 4월 10일 목요일 | **GPT-2 (2019)** | 미정 | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
+| 4월 17일 목요일 | **GPT-3 (2020)** | 미정 | [GPT-3](https://arxiv.org/abs/2005.14165) |
+| 4월 24일 목요일 | **Magical Week** | - | - |
+| 5월 1일 목요일 | **T5 (2019)** | 미정 | [T5](https://arxiv.org/abs/1910.10683) |
+| 5월 8일 목요일 | **InstructGPT (2022)** | 미정 | [InstructGPT](https://arxiv.org/abs/2203.02155) |
+| 5월 15일 목요일 | **ChatGPT (2022)** | 미정 | [ChatGPT](https://arxiv.org/abs/2304.01852) |
+| 5월 22일 목요일 | **LLaMA 1 (2023)** | 미정 | [LLaMA 1](https://arxiv.org/abs/2302.13971) |
+| 5월 29일 목요일 | **LLaMA 2 (2023)** | 미정 | [LLaMA 2](https://arxiv.org/abs/2307.09288) |
+| 6월 5일 목요일 | **LLaMA 3 (2024)** | 미정 | [LLaMA 3](https://arxiv.org/abs/2407.21783) |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
