@@ -58,8 +58,8 @@
 |--------|------|--------|------|------|
 | 3/6 (목) | OT | 김성은 |  |  |
 | 3/13 (목) | Transformer | 미정 | [Transformer](https://arxiv.org/abs/1706.03762) |  |
-|  | BERT | 미정 | [BERT](https://arxiv.org/abs/1810.04805) |  |
-| 3/20 (목) | RoBERTa | 미정 | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
+| 3/20 (목) | BERT | 미정 | [BERT](https://arxiv.org/abs/1810.04805) |  |
+|  | RoBERTa | 미정 | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
 |  | ALBERT | 미정 | [ALBERT](https://arxiv.org/abs/1909.11942) |  |
 | 3/27 (목) | **💡 Magical Week** | - | - |  |
 | 4/3 (목) | GPT series | 미정 | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165), [InstructGPT](https://arxiv.org/abs/2203.02155), [ChatGPT](https://arxiv.org/abs/2304.01852) |  |
