@@ -35,13 +35,15 @@
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김성은 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
-| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
-| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
-| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
-| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
-| **Member** | OOO | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 파이프라인 설계 |
-
+| **Project Manager** | [김성은](https://github.com/ssungni) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [고준서]( https://github.com/kojunseo) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [권보원](https://github.com/BowonKwon) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [권지수](https://github.com/Kwon-Jisu)| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [문보경](https://github.com/BokyungisaGod) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [백승엽](https://github.com/aromadsh) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [성주용](https://github.com/tmznwnel00) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [이혜림](https://github.com/rimrimrim0203) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [임도연]() | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture) 
 📅 **매주 목요일 저녁 8시 ~ 9시 30분**  
