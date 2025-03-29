@@ -76,7 +76,7 @@
 | 5/8 (목) | P-Tuning | [권지수](https://github.com/Kwon-Jisu) | [P-Tuning](https://arxiv.org/abs/2110.07602) |  |
 | 5/15 (목) | Adapter | [권지수](https://github.com/Kwon-Jisu) | [Adapter](https://arxiv.org/abs/1902.00751) |  |
 | 5/22 (목) | LoRA | [고준서]( https://github.com/kojunseo) | [LoRA](https://arxiv.org/abs/2106.09685) |  |
-| 5/29 (목) | In-Context Learning | [문보경](https://github.com/BokyungisaGod) | [In-Context Learning](https://arxiv.org/abs/2005.14165) |  |
+| 5/29 (목) | In-Context Learning | [문보경](https://github.com/BokyungisaGod) | [In-Context Learning](https://arxiv.org/abs/2306.15091) |  |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
