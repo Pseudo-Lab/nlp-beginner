@@ -43,7 +43,7 @@
 | **Member** | [백승엽](https://github.com/aromadsh) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
 | **Member** | [성주용](https://github.com/tmznwnel00) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
 | **Member** | [이혜림](https://github.com/rimrimrim0203) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
-| **Member** | [임도연]() | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
+| **Member** | [임도연](https://github.com/DoyeonLim) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |  LLM  |
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture) 
 📅 **매주 목요일 저녁 8시 ~ 9시 30분**  
@@ -56,21 +56,27 @@
 
 | 날짜 | 논문 | 발표자 | 링크 | 발표 자로 |
 |--------|------|--------|------|------|
-| 3/6 (목) | OT | 김성은 |  |  |
-| 3/13 (목) | Transformer | 미정 | [Transformer](https://arxiv.org/abs/1706.03762) |  |
-| 3/20 (목) | BERT | 미정 | [BERT](https://arxiv.org/abs/1810.04805) |  |
-|  | RoBERTa | 미정 | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
-|  | ALBERT | 미정 | [ALBERT](https://arxiv.org/abs/1909.11942) |  |
+| 3/6 (목) | OT | [김성은](https://github.com/ssungni) |  |  |
+| 3/13 (목) | Transformer | [김성은](https://github.com/ssungni) | [Transformer](https://arxiv.org/abs/1706.03762) |  |
+| 3/20 (목) | BERT |  [성주용](https://github.com/tmznwnel00) | [BERT](https://arxiv.org/abs/1810.04805) |  |
+|  | RoBERTa | [이혜림](https://github.com/rimrimrim0203) | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
+|  | ALBERT | [김성은](https://github.com/ssungni) | [ALBERT](https://arxiv.org/abs/1909.11942) |  |
 | 3/27 (목) | **💡 Magical Week** | - | - |  |
-| 4/3 (목) | GPT series | 미정 | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [GPT-3](https://arxiv.org/abs/2005.14165), [InstructGPT](https://arxiv.org/abs/2203.02155), [ChatGPT](https://arxiv.org/abs/2304.01852) |  |
-| 4/10 (목) | BART | 미정 | [BART](https://arxiv.org/abs/1910.13461) |  |
-| 4/17 (목) | T5 | 미정 | [T5](https://arxiv.org/abs/1910.10683) |  |
+| 4/3 (목) | GPT-1 |  [고준서](https://github.com/kojunseo) | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |  |
+|  | GPT-2 | [임도연](https://github.com/DoyeonLim) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |  |
+|  | GPT-3 | [성주용](https://github.com/tmznwnel00) | [GPT-3](https://arxiv.org/abs/2005.14165) |  |
+|  | Instruct GPT | [권보원](https://github.com/BowonKwon) | [InstructGPT](https://arxiv.org/abs/2203.02155) |  |
+|  | ChatGPT | [문보경](https://github.com/BokyungisaGod) | [ChatGPT](https://arxiv.org/abs/2304.01852) |  |
+| 4/10 (목) | BART | [백승엽](https://github.com/aromadsh) | [BART](https://arxiv.org/abs/1910.13461) |  |
+| 4/17 (목) | T5 | [권보원](https://github.com/BowonKwon) | [T5](https://arxiv.org/abs/1910.10683) |  |
 | 4/24 (목) | **💡 Magical Week** | - | - |  |
-| 5/1 (목) | LLaMA series | 미정 | [LLaMA 1](https://arxiv.org/abs/2302.13971), [LLaMA 2](https://arxiv.org/abs/2307.09288), [LLaMA 3](https://arxiv.org/abs/2407.21783) |  |
-| 5/8 (목) | P-Tuning | 미정 | [P-Tuning](https://arxiv.org/abs/2110.07602) |  |
-| 5/15 (목) | Adapter | 미정 | [Adapter](https://arxiv.org/abs/1902.00751) |  |
-| 5/22 (목) | LoRA | 미정 | [LoRA](https://arxiv.org/abs/2106.09685) |  |
-| 5/29 (목) | In-Context Learning | 미정 | [In-Context Learning](https://arxiv.org/abs/2005.14165) |  |
+| 5/1 (목) | LLaMA 1 | [백승엽](https://github.com/aromadsh) | [LLaMA 1](https://arxiv.org/abs/2302.13971)|  |
+|  | LLaMA 2 | [임도연](https://github.com/DoyeonLim) | [LLaMA 2](https://arxiv.org/abs/2307.09288), 
+|  | LLaMA 3 | [이혜림](https://github.com/rimrimrim0203) | [LLaMA 3](https://arxiv.org/abs/2407.21783) |  |
+| 5/8 (목) | P-Tuning | [권지수](https://github.com/Kwon-Jisu) | [P-Tuning](https://arxiv.org/abs/2110.07602) |  |
+| 5/15 (목) | Adapter | [권지수](https://github.com/Kwon-Jisu) | [Adapter](https://arxiv.org/abs/1902.00751) |  |
+| 5/22 (목) | LoRA | [고준서]( https://github.com/kojunseo) | [LoRA](https://arxiv.org/abs/2106.09685) |  |
+| 5/29 (목) | In-Context Learning | [문보경](https://github.com/BokyungisaGod) | [In-Context Learning](https://arxiv.org/abs/2005.14165) |  |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
