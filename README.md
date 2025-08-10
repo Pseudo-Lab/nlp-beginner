@@ -101,7 +101,13 @@ With over **5k+ researchers**, we are committed to pushing the boundaries of AI 
 
 [![Contributors](https://contrib.rocks/image?repo=Pseudo-Lab/nlp-beginner)](https://github.com/Pseudo-Lab/nlp-beginner/graphs/contributors)  
 [<img src="https://github.com/kojunseo.png" width="60" height="60" style="border-radius:50%;">](https://github.com/kojunseo)
-
+[<img src="https://github.com/BowonKwon.png" width="60" height="60" style="border-radius:50%;">](https://github.com/BowonKwon)
+[<img src="https://github.com/Kwon-Jisu.png" width="60" height="60" style="border-radius:50%;">](https://github.com/Kwon-Jisu)
+[<img src="https://github.com/BokyungisaGod.png" width="60" height="60" style="border-radius:50%;">](https://github.com/BokyungisaGod)
+[<img src="https://github.com/aromadsh.png" width="60" height="60" style="border-radius:50%;">](https://github.com/aromadsh)
+[<img src="https://github.com/tmznwnel00.png" width="60" height="60" style="border-radius:50%;">](https://github.com/tmznwnel00)
+[<img src="https://github.com/rimrimrim0203.png" width="60" height="60" style="border-radius:50%;">](https://github.com/rimrimrim0203)
+[<img src="https://github.com/DoyeonLim.png" width="60" height="60" style="border-radius:50%;">](https://github.com/DoyeonLim)
  
 ## License 🗞  
 
