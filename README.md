@@ -64,7 +64,7 @@
 | 3/27 (목) | **💡 Magical Week** | - | - |  |
 | 4/3 (목) | GPT-1 |  [고준서](https://github.com/kojunseo) | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |  |
 |  | GPT-2 | [임도연](https://github.com/DoyeonLim) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [ppt](https://github.com/user-attachments/files/21705367/GPT2.pdf) |
-|  | GPT-3 | [성주용](https://github.com/tmznwnel00) | [GPT-3](https://arxiv.org/abs/2005.14165) | [ppt]([https://github.com/user-attachments/files/21705367/GPT2.pdf](https://github.com/user-attachments/files/21705362/GPT3_Representation.pdf)) |
+|  | GPT-3 | [성주용](https://github.com/tmznwnel00) | [GPT-3](https://arxiv.org/abs/2005.14165) | [ppt](https://github.com/user-attachments/files/21705362/GPT3_Representation.pdf) |
 |  | Instruct GPT | [권보원](https://github.com/BowonKwon) | [InstructGPT](https://arxiv.org/abs/2203.02155) | [ppt](https://github.com/user-attachments/files/21705366/InstructGPT.pdf) |
 |  | ChatGPT | [문보경](https://github.com/BokyungisaGod) | [ChatGPT](https://arxiv.org/abs/2304.01852) |  |
 | 4/10 (목) | BART | [백승엽](https://github.com/aromadsh) | [BART](https://arxiv.org/abs/1910.13461) | [ppt](https://github.com/user-attachments/files/21705368/BART.presentation.pptx) |
