@@ -71,7 +71,7 @@
 | 4/17 (목) | T5 | [권보원](https://github.com/BowonKwon) | [T5](https://arxiv.org/abs/1910.10683) | [ppt]([https://github.com/user-attachments/files/21705368/BART.presentation.pptx](https://github.com/user-attachments/files/21705359/T5.pdf)) |
 | 4/24 (목) | **💡 Magical Week** | - | - |  |
 | 5/1 (목) | LLaMA 1 | [백승엽](https://github.com/aromadsh) | [LLaMA 1](https://arxiv.org/abs/2302.13971)| [ppt](https://github.com/user-attachments/files/21705365/LLaMA1.presentation.pptx)  |
-|  | LLaMA 2 | [임도연](https://github.com/DoyeonLim) | [LLaMA 2](https://arxiv.org/abs/2307.09288)| [LLaMA 2](https://arxiv.org/abs/2302.13971)| [ppt](https://github.com/user-attachments/files/21705360/LlaMA2.pdf)  |
+|  | LLaMA 2 | [임도연](https://github.com/DoyeonLim) | [LLaMA 2](https://arxiv.org/abs/2307.09288)| [ppt](https://github.com/user-attachments/files/21705360/LlaMA2.pdf)  |
 |  | LLaMA 3 | [이혜림](https://github.com/rimrimrim0203) | [LLaMA 3](https://arxiv.org/abs/2407.21783) |  |
 | 5/8 (목) | P-Tuning | [권지수](https://github.com/Kwon-Jisu) | [P-Tuning](https://arxiv.org/abs/2110.07602) |  |
 | 5/15 (목) | Adapter | [권지수](https://github.com/Kwon-Jisu) | [Adapter](https://arxiv.org/abs/1902.00751) |  |
