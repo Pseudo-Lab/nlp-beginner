@@ -100,7 +100,9 @@ With over **5k+ researchers**, we are committed to pushing the boundaries of AI 
 ## Contributors 😃  
 
 [![Contributors](https://contrib.rocks/image?repo=Pseudo-Lab/nlp-beginner)](https://github.com/Pseudo-Lab/nlp-beginner/graphs/contributors)  
+[<img src="https://github.com/kojunseo.png" width="50" height="50" style="border-radius:50%;">](https://github.com/kojunseo)
 
+ 
 ## License 🗞  
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
