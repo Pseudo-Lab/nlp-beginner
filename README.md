@@ -59,19 +59,19 @@
 | 3/6 (목) | OT | [김성은](https://github.com/ssungni) |  |  |
 | 3/13 (목) | Transformer | [김성은](https://github.com/ssungni) | [Transformer](https://arxiv.org/abs/1706.03762) | [ppt](https://github.com/user-attachments/files/21705358/Transformer.pdf) |
 | 3/20 (목) | BERT |  [성주용](https://github.com/tmznwnel00) | [BERT](https://arxiv.org/abs/1810.04805) | [ppt](https://github.com/user-attachments/files/21705361/Bert_Representation.pdf) |
-|  | RoBERTa | [이혜림](https://github.com/rimrimrim0203) | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
-|  | ALBERT | [김성은](https://github.com/ssungni) | [ALBERT](https://arxiv.org/abs/1909.11942) |  |
+|  | RoBERTa | [이혜림](https://github.com/rimrimrim0203) | [RoBERTa](https://arxiv.org/abs/1907.11692) | [ppt](https://github.com/user-attachments/files/21705361/Bert_Representation.pdf) |
+|  | ALBERT | [김성은](https://github.com/ssungni) | [ALBERT](https://arxiv.org/abs/1909.11942) | [ppt](https://github.com/user-attachments/files/21705364/ALBERT.pdf) |
 | 3/27 (목) | **💡 Magical Week** | - | - |  |
 | 4/3 (목) | GPT-1 |  [고준서](https://github.com/kojunseo) | [GPT-1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) |  |
-|  | GPT-2 | [임도연](https://github.com/DoyeonLim) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |  |
-|  | GPT-3 | [성주용](https://github.com/tmznwnel00) | [GPT-3](https://arxiv.org/abs/2005.14165) |  |
-|  | Instruct GPT | [권보원](https://github.com/BowonKwon) | [InstructGPT](https://arxiv.org/abs/2203.02155) |  |
+|  | GPT-2 | [임도연](https://github.com/DoyeonLim) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [ppt](https://github.com/user-attachments/files/21705367/GPT2.pdf) |
+|  | GPT-3 | [성주용](https://github.com/tmznwnel00) | [GPT-3](https://arxiv.org/abs/2005.14165) | [ppt]([https://github.com/user-attachments/files/21705367/GPT2.pdf](https://github.com/user-attachments/files/21705362/GPT3_Representation.pdf)) |
+|  | Instruct GPT | [권보원](https://github.com/BowonKwon) | [InstructGPT](https://arxiv.org/abs/2203.02155) | [ppt](https://github.com/user-attachments/files/21705366/InstructGPT.pdf) |
 |  | ChatGPT | [문보경](https://github.com/BokyungisaGod) | [ChatGPT](https://arxiv.org/abs/2304.01852) |  |
-| 4/10 (목) | BART | [백승엽](https://github.com/aromadsh) | [BART](https://arxiv.org/abs/1910.13461) |  |
-| 4/17 (목) | T5 | [권보원](https://github.com/BowonKwon) | [T5](https://arxiv.org/abs/1910.10683) |  |
+| 4/10 (목) | BART | [백승엽](https://github.com/aromadsh) | [BART](https://arxiv.org/abs/1910.13461) | [ppt](https://github.com/user-attachments/files/21705368/BART.presentation.pptx) |
+| 4/17 (목) | T5 | [권보원](https://github.com/BowonKwon) | [T5](https://arxiv.org/abs/1910.10683) | [ppt]([https://github.com/user-attachments/files/21705368/BART.presentation.pptx](https://github.com/user-attachments/files/21705359/T5.pdf)) |
 | 4/24 (목) | **💡 Magical Week** | - | - |  |
-| 5/1 (목) | LLaMA 1 | [백승엽](https://github.com/aromadsh) | [LLaMA 1](https://arxiv.org/abs/2302.13971)|  |
-|  | LLaMA 2 | [임도연](https://github.com/DoyeonLim) | [LLaMA 2](https://arxiv.org/abs/2307.09288), 
+| 5/1 (목) | LLaMA 1 | [백승엽](https://github.com/aromadsh) | [LLaMA 1](https://arxiv.org/abs/2302.13971)| [ppt](https://github.com/user-attachments/files/21705365/LLaMA1.presentation.pptx)  |
+|  | LLaMA 2 | [임도연](https://github.com/DoyeonLim) | [LLaMA 2](https://arxiv.org/abs/2307.09288)| [LLaMA 2](https://arxiv.org/abs/2302.13971)| [ppt](https://github.com/user-attachments/files/21705360/LlaMA2.pdf)  |
 |  | LLaMA 3 | [이혜림](https://github.com/rimrimrim0203) | [LLaMA 3](https://arxiv.org/abs/2407.21783) |  |
 | 5/8 (목) | P-Tuning | [권지수](https://github.com/Kwon-Jisu) | [P-Tuning](https://arxiv.org/abs/2110.07602) |  |
 | 5/15 (목) | Adapter | [권지수](https://github.com/Kwon-Jisu) | [Adapter](https://arxiv.org/abs/1902.00751) |  |
