@@ -57,8 +57,8 @@
 | 날짜 | 논문 | 발표자 | 링크 | 발표 자로 |
 |--------|------|--------|------|------|
 | 3/6 (목) | OT | [김성은](https://github.com/ssungni) |  |  |
-| 3/13 (목) | Transformer | [김성은](https://github.com/ssungni) | [Transformer](https://arxiv.org/abs/1706.03762) |  |
-| 3/20 (목) | BERT |  [성주용](https://github.com/tmznwnel00) | [BERT](https://arxiv.org/abs/1810.04805) |  |
+| 3/13 (목) | Transformer | [김성은](https://github.com/ssungni) | [Transformer](https://arxiv.org/abs/1706.03762) | ppt(https://github.com/user-attachments/files/21705358/Transformer.pdf) |
+| 3/20 (목) | BERT |  [성주용](https://github.com/tmznwnel00) | [BERT](https://arxiv.org/abs/1810.04805) | ppt(https://github.com/user-attachments/files/21705361/Bert_Representation.pdf) |
 |  | RoBERTa | [이혜림](https://github.com/rimrimrim0203) | [RoBERTa](https://arxiv.org/abs/1907.11692) |  |
 |  | ALBERT | [김성은](https://github.com/ssungni) | [ALBERT](https://arxiv.org/abs/1909.11942) |  |
 | 3/27 (목) | **💡 Magical Week** | - | - |  |
