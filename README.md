@@ -99,7 +99,7 @@ With over **5k+ researchers**, we are committed to pushing the boundaries of AI 
 
 ## Contributors 😃  
 
-[![Contributors](https://contrib.rocks/image?repo=Pseudo-Lab/nlp-beginner)](https://github.com/Pseudo-Lab/nlp-beginner/graphs/contributors)  
+[<img src="https://github.com/ssungni.png" width="60" height="60" style="border-radius:50%;">](https://github.com/ssungni)
 [<img src="https://github.com/kojunseo.png" width="60" height="60" style="border-radius:50%;">](https://github.com/kojunseo)
 [<img src="https://github.com/BowonKwon.png" width="60" height="60" style="border-radius:50%;">](https://github.com/BowonKwon)
 [<img src="https://github.com/Kwon-Jisu.png" width="60" height="60" style="border-radius:50%;">](https://github.com/Kwon-Jisu)
